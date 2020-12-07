@@ -7,4 +7,3 @@ This repository contains the four datasets are used in the illustrative example 
 - "V2M_C_MOVEMENT_PC_3yr.csv" is the inpatient movement table from the EMR.
 - "V2M_C_PATIENT_BASIC_3yr.csv" is the patient demographics table from the EMR.
 
-In the illustrative exampl, the three tables from the EMR are stored on a MySQL server.
