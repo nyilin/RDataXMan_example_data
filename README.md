@@ -1,6 +1,6 @@
 # RDataXMan_example_data
 
-This repository contains the four datasets are used in the illustrative example in the user manual of [RDataXMan](https://github.com/nyilin/RDataXMan):
+This repository contains the four simulated datasets are used in the illustrative example in the user manual of [RDataXMan](https://github.com/nyilin/RDataXMan):
 
 - "QoL survey data.xlsx" contains data collected from the QoL survey.
 - "V2M_C_DIAGNOSIS_P_3yr.csv" is the diagnosis table from the EMR.
